@@ -17,7 +17,7 @@ const Sidebar = () => {
       className="sidebar bg-info shadow-lg p-4 rounded"
       style={{ width: '280px', minHeight: '200vh', borderRight: '1px solid rgb(233, 236, 240)' }}
     >
-      <h4 className="text-white mb-4 text-center font-weight-bold">Week 8 Assignments</h4>
+      <h4 className="text-white mb-4 text-center font-weight-bold">React  Assignments</h4>
       <ul className="nav flex-column">
 
         <li><h6 className="text-white font-weight-bold mb-3">Day 1: React Components</h6></li>
